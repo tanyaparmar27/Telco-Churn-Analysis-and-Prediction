@@ -1,0 +1,7 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+*.pyc
+*.pyo
+__pycache__
